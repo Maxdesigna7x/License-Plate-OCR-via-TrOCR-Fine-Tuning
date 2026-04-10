@@ -1,13 +1,10 @@
-Here is the professionally redesigned `README.md` in English. I've structured it to highlight the end-to-end deep learning architecture, the training pipeline, and the comprehensive evaluation metrics, making it highly attractive for an ML portfolio or GitHub repository.
-
-***
-
 # 🔍 License Plate OCR via TrOCR Fine-Tuning
 
 This repository provides an end-to-end Optical Character Recognition (OCR) pipeline for license plates. By replacing brittle, multi-stage traditional OCR systems (which require handcrafted character segmentation) with a modern **Transformer-based Vision-Encoder/Decoder model**, this project achieves robust, sequence-to-sequence plate transcription.
 
 The model is fine-tuned entirely on a diverse mix of synthetic and AI-generated datasets to bridge the domain gap and handle variations in font styles, illumination, blur, and rendering quality.
 
+![Geometry Nodes Setup](Results.png)
 ---
 
 ## 🧠 Architecture & Methodology
